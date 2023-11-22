@@ -1,0 +1,98 @@
+body{
+  padding: 20px;
+  
+  font-family: sans-serif;
+  background-image: url(https://img.freepik.com/premium-vector/beans-coffee-cup-hand-drawn-style-vector-illustration_514781-1129.jpg);
+}
+
+div{
+  display:block
+}
+
+main{
+  display: block;
+
+}
+
+.menu{
+  background-color: rgb(239, 197, 141);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  padding: 30px;
+}
+
+h1, h2, p{
+text-align: center;
+
+}
+
+h1,h2{
+  font-family: Impact,serif;
+}
+
+h1{
+  font-size: 40px;
+  margin-top: -2px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.established{
+  font-style: italic;
+  margin-top: -7px; 
+}
+
+i{
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  width: 100%;
+  margin-top: -30px;
+}
+
+.drinks{
+  text-align: left;
+  width: 50%;
+}
+
+.dessert{
+  text-align: left;
+  width: 50%;
+ 
+}
+
+.price{
+  text-align: right;
+  width: 35%;
+}
+
+.item p{
+  display: inline-block;
+  margin-bottom: -20px;
+  font-size: 18px; 
+}
+
+.pastry{
+  display: block;
+  width:55px;
+  height: 55px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -22px;
+}
+.line{
+  margin-bottom: 40px;
+}
+
+hr{
+ background-color: brown;
+ height: 2px;
+ border-color: brown;
+}
+
+
+
+
